@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  DX.cpp
+dxgi.lib(dxgi.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in d3d12.lib(d3d12.dll); second definition ignored
+  DX.vcxproj -> C:\Users\subinyun\Desktop\DX\Build\Win32_Debug\DX.lib
